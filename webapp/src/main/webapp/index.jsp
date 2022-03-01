@@ -20,6 +20,6 @@
   </div>
 
   <div class="container signin">
-    <p>Zamee DO YOU Already have an account? <a href="#">Sign in</a>.</p>
+    <p>WELCOME TO ALL  <a href="#">Sign in</a>.</p>
   </div>
 </form>
