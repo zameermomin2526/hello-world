@@ -20,6 +20,5 @@
   </div>
 
   <div class="container signin">
-    <p>HI HI HI HI WELCOME TO ALL zameer momin  <a href="#">Sign in</a>.</p>
-  </div>
-</form>
+    <p>HI HI HI HI  <a href="#">Sign in</a>.</p>
+  </div</form>
