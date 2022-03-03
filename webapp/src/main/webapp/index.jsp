@@ -1,4 +1,3 @@
-
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
@@ -20,5 +19,6 @@
   </div>
 
   <div class="container signin">
-    <p>BHAI BHAI  ABC <a href="#">Sign in</a>.</p>
-  </div</form>
+    <p>Already have an account? <a href="#">Sign in</a>.</p>
+  </div>
+</form>>
