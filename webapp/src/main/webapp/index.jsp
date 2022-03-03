@@ -20,5 +20,5 @@
   </div>
 
   <div class="container signin">
-    <p>WELCOME  BHAI  <a href="#">Sign in</a>.</p>
+    <p>W  BHAI  <a href="#">Sign in</a>.</p>
   </div</form>
