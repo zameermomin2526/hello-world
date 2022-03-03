@@ -20,5 +20,5 @@
   </div>
 
   <div class="container signin">
-    <p>HI HI HI HI  <a href="#">Sign in</a>.</p>
+    <p>HI HI HI HI WELCOME WELCOME  <a href="#">Sign in</a>.</p>
   </div</form>
